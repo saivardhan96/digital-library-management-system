@@ -157,5 +157,3 @@ Once the setup is complete, you can run the application with the following steps
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-Feel free to modify this README to better fit your project's specific details!
