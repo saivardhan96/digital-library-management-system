@@ -1,10 +1,7 @@
-Sure! Here's a detailed **README** file template for your **Digital Library Management System** that will guide users through the setup and running process.
-
----
 
 # Digital Library Management System
 
-This is a Digital Library Management System developed in **Java** with a **MySQL** database. It allows users to manage books in a library, including adding, updating, and deleting book records, as well as managing user information.
+This is a Digital Library Management System developed in **Java** with a **MySQL** database. It allows users to manage books in a library, including adding, updating, and deleting book records.
 
 ## Table of Contents
 
